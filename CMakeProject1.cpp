@@ -7,6 +7,6 @@ using namespace std;
 
 int main()
 {
-	cout << "Viganesh Ramachandran" << endl; //name
+	cout << "Viganesh Ramachandran :]" << endl; // i added a :]
 	return 0;
 }
